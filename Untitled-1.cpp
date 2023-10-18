@@ -8,4 +8,5 @@ int main(){
     int b = 20;
     int c = a + b;
     cout << c;
+    cout << b;
 }
